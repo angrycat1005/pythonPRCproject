@@ -3,14 +3,12 @@
 게임 실행 방법
 
 서버 실행:
-Apply to player.py
-
-Run
+server.py 파일 오픈 후 실행
 
 클라이언트 실행 (각 플레이어):
-Apply to player.py
+Apply to client.py 파일 오픈 후 실행
 
-Run
+CLI 게임인 만큼, 터미널에서 진행
 
 주의사항:
 서버는 반드시 클라이언트보다 먼저 실행되어야 합니다.
