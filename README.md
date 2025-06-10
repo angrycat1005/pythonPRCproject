@@ -4,9 +4,12 @@
 
 서버 실행:
 Apply to player.py
+
 Run
+
 클라이언트 실행 (각 플레이어):
 Apply to player.py
+
 Run
 
 주의사항:
